@@ -1,0 +1,10 @@
+GrouPy @ git+https://github.com/mshakerinava/GrouPy.git@734d5eba45f858defd4cfb44c27f392e2e10f416
+h5py==2.10.0
+matplotlib==3.2.1
+netCDF4==1.5.3
+networkx==2.5
+numpy==1.19.1
+Pillow==7.2.0
+scipy==1.4.1
+torch==1.6.0
+tqdm==4.49.0
